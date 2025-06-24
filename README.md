@@ -21,8 +21,7 @@ This is a simple and secure **password generator** written in Python. It allows 
    ```bash
    git clone https://github.com/yourusername/random-password-generator
 2. Run the script:
-   bash
-   
+   ```bash
    python password_generator.py
 
 
