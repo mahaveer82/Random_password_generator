@@ -20,3 +20,9 @@ This is a simple and secure **password generator** written in Python. It allows 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/random-password-generator
+2. Run the script:
+   bash
+   
+   python password_generator.py
+
+
